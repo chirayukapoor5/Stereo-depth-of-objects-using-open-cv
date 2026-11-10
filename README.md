@@ -131,6 +131,3 @@ python -m pytest
 
 The concept is inspired by the original research repository and its authors. This mini-project is an independent educational implementation with a simplified OpenCV/Python pipeline.
 
-## License
-
-GPL-3.0, matching the original project family.
