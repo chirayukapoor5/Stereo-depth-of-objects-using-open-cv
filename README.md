@@ -1,7 +1,5 @@
 # Stereo Depth Mini Project
 
-A recruiter-ready, low-profile stereo-vision prototype inspired by the original [Low-Cost Hardware-Accelerated Vision-Based Depth Perception](https://github.com/AdityaNG/Low-Cost-Hardware-Accelerated-Vision-Based-Depth-Perception-for-Real-Time-Applications) project.
-
 This repository turns the research idea into a reproducible end-to-end mini product: two horizontally aligned cameras produce a disparity image, disparity is converted into metric depth, nearby regions are highlighted as obstacles, and a colored point cloud can be exported for 3D inspection.
 
 ![Architecture](docs/architecture.svg)
